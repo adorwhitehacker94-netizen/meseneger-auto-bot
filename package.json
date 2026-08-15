@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node ador.js"
+    "start": "node index.js"
   },
   "dependencies": {
-    "fca-horizon-light": "^2.0.0",
+    "@khangfb/chat-api": "^1.0.0",
     "dotenv": "^16.3.0",
     "express": "^4.18.0"
   }
