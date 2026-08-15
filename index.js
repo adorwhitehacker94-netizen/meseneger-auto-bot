@@ -1,4 +1,4 @@
-const login = require('fb-chat-api');
+const login = require('fca-horizon-light');
 const fs = require('fs');
 const express = require('express');
 require('dotenv').config();
