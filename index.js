@@ -1,4 +1,4 @@
-const login = require('facebook-chat-api');
+const login = require('@khangfb/chat-api');
 const fs = require('fs');
 const express = require('express');
 require('dotenv').config();
