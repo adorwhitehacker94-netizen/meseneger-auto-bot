@@ -6,7 +6,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@khangfb/chat-api": "github:khangdev2k3/fca-khang",
+    "fca-priyansh": "^22.0.0",
     "dotenv": "^16.3.0",
     "express": "^4.18.0"
   }
